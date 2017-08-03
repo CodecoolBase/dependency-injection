@@ -1,0 +1,14 @@
+= Dependency Injection
+
+Sample code to demonstrate the concept of _Dependency Injection_.
+
+It doens't use annotations, Spring or any other magic as Dependency Injection in itself doesn't require it.
+However one could implment it using reflection and annotations (like how Spring does it).
+
+== Quickstart
+
+Import the project into IntelliJ and run the _ManualDependencyInjectionApplication_ class.
+
+== Why Manual Dependency Injection?
+
+Dependency Injection it's just a concept which helps you think _modularly_ and to write modular and testable code.
